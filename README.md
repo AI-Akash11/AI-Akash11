@@ -1,13 +1,17 @@
 
+<div align="center">
+
 <img width="1584" height="396" alt="Teal Modern Profile New LinkedIn Banner" src="https://github.com/user-attachments/assets/5cce2a58-649d-40b0-8bdc-5ec0963cf1ff" />
 
-<h1 align="center">Hi 👋, I'm Ali Imam Akash</h1>
+<h1>Hi 👋, I'm Ali Imam Akash</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=MERN+Stack+Web+Developer.;Currently+Learning+Next.js.;Interested+In+React+Native.;Open+to+Work!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=MERN+Stack+Web+Developer.;Currently+Learning+Next.js.;Interested+In+React+Native.;Open+to+Work+!" alt="Typing SVG" />
   </a>
 </p>
+
+</div>
 
 ---
 
