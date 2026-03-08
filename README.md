@@ -1,3 +1,6 @@
+
+<img width="1584" height="396" alt="Teal Modern Profile New LinkedIn Banner" src="https://github.com/user-attachments/assets/de6b4f3b-0872-43a6-94f0-db2778a95667" />
+
 <div align="center">
 
 # Hi 👋, I'm Ali Imam Akash
