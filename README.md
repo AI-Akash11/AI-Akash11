@@ -1,5 +1,5 @@
 
-<img width="1584" height="396" alt="Teal Modern Profile New LinkedIn Banner" src="https://github.com/user-attachments/assets/de6b4f3b-0872-43a6-94f0-db2778a95667" />
+<img width="1584" height="396" alt="Teal Modern Profile New LinkedIn Banner" src="https://github.com/user-attachments/assets/5cce2a58-649d-40b0-8bdc-5ec0963cf1ff" />
 
 <div align="center">
 
