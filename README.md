@@ -1,4 +1,4 @@
-# Hi 👋, I'm Akash
+# Hi 👋, I'm Ali Imam Akash
 ### 🚀 Aspiring Full Stack Web Developer (MERN) | Currently Learning Next.js | Open to Work
 
 ---
