@@ -1,5 +1,10 @@
+<div align="center">
+
 # Hi 👋, I'm Ali Imam Akash
-### 🚀 Aspiring Full Stack Web Developer (MERN) | Currently Learning Next.js | Open to Work
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=MERN+Stack+Web+Developer.;Currently+Learning+Next.js.;Interested+In+React+Native.;Open+to+Work+!)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
